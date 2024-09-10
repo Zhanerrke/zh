@@ -1,0 +1,54 @@
+*{
+    margin:0 auto;
+    font-family:'Times New Roman', Times, serif;
+    align-content: center; 
+}
+
+.content{
+ width: 1000px;  
+ height:400px; 
+}
+
+.content .photo{
+    display:inline;
+}
+
+.content .photo img{
+    margin: 50px 0 50px 50px;
+    border-radius: 50%;
+
+}
+
+.content .follow{
+    display:inline-block;
+    width:400px;
+    margin: 60; 
+    padding:30px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.content .follow table tr td{
+    padding:0 15px;
+}
+
+#hr{
+margin: 20px;
+}
+
+th{
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+
+.images{
+    width:1000px;
+    margin-top:10px;
+}
+
+
+
+.images img{
+    margin: 10px;
+}
